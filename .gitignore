@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/mydotnetcoreapp/.vs/mydotnetcoreapp/v16
+/mydotnetcoreapp/mydotnetcoreapp/obj
